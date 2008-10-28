@@ -1,0 +1,295 @@
+Return-path: <bounced-oum-395231105-9077@mail.southwest.com>
+Envelope-to: USER.NAME@hostname.com
+Delivery-date: Fri, 20 Jun 2008 08:39:33 -0500
+Received: from mail03.southwest.com ([63.169.44.143])
+	by rubble.crucialcrossbar.com with smtp (Exim 4.69)
+	(envelope-from <bounced-oum-395231105-9077@mail.southwest.com>)
+	id 1K9gpt-00027B-Ng
+	for USER.NAME@hostname.com; Fri, 20 Jun 2008 08:39:33 -0500
+Date: Fri, 20 Jun 2008 08:39:31 -0500
+From: "Southwest Airlines" <SouthwestAirlines@mail.southwest.com>
+To: <USER.NAME@hostname.com>
+Reply-To: "Southwest Airlines" <SouthwestAirlines@mail.southwest.com>
+Subject: Ticketless Cancellation - NAME/USER - 2XB4NK
+Message-ID: <SWIM-oum-395231105-9077@mail.southwest.com>
+MIME-Version: 1.0
+Content-Type: text/html
+X-Spam-Status: No, score=-5.1
+X-Spam-Score: -50
+X-Spam-Bar: -----
+X-Spam-Flag: NO
+
+<html>
+
+<!--
+
+SOUTHWEST AIRLINES ITINERARY AND RECEIPT
+
+Confirmation Number: 2XB4NK
+
+Your e-mail inbox will not display your Southwest Airlines Itinerary 
+and Receipt in HTML if your e-mail service provider does not
+accept HTML deliveries, your e-mail reader does not support HTML
+e-mails, and/or your e-mail settings are set to display text only.
+
+For a faxed or mailed copy of your Itinerary and Receipt, please contact Southwest 
+Airlines Reservations at 1-800-435-9792 and provide your confirmation 
+number.
+
+This is a post-only mailing from Southwest Airlines. Please do not attempt to respond to this message.
+
+Southwest Airlines
+2702 Love Field Drive
+Dallas, TX 75235
+
+-->
+
+<head>
+<title>Southwest Airlines Receipt and Itinerary</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- RegularHtmlTemplate.htx -->
+</head>
+<body bgcolor="#ffffff">
+<table width="580" border="0" cellspacing="0" cellpadding="2">
+
+<tr>
+<td bgcolor="#000000">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" bgcolor="#ffffff">
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td valign="top"><img src="http://www.southwest.com/images/confirm_email_swcom.jpg" alt="Southwest Airlines Receipt and Itinerary" width="134" height="55" hspace="3" vspace="2" /></td>
+<td><font face="Arial, Helvetica, sans-serif" size="2"></font></td>
+</tr>
+</table></td>
+
+</tr>
+<tr>
+<td valign="top" bgcolor="#ffffff">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td colspan="2" align="left"><font face="Arial, Helvetica, sans-serif" size="1"><b><br>
+Receipt and Itinerary as of 06/20/08 8:39 AM</b></font>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<table width="100" border="0" cellpadding="1" cellspacing="0" bgcolor="#000000">
+<tr>
+
+<td>
+<table width="200" border="0" cellpadding="1" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<td align="center" bgcolor="#ffaa00"><font face="Arial, Helvetica, sans-serif" size="3"><b>Confirmation Number</b></font></td>
+</tr>
+<tr>
+<td align="center" valign="bottom" bgcolor="#ffaa00"><p><font face="Times New Roman" size="3"><b>2XB4NK</b> </font></p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<p><font face="Arial, Helvetica, sans-serif" size="2">Confirmation Date: 06/05/08<br>
+<br>
+</font>
+</p>
+</td>
+
+<td width="50%" align="center" valign="top"><a href="http://www.southwest.com/boardingschool"><img src="http://www.southwest.com/images/confirm_email_seating.gif" alt="Where Will I Sit?" width="92" height="62"  hspace="4" border="0" /></a><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="1">
+</table>
+
+<table border="0" cellpadding="1" cellspacing="1" width="100%">
+  <tr> 
+    <td bgcolor="#FFAA00" colspan="4"><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"><b>&nbsp;Passenger Information</b></font></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#CCCCCC" align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;Passenger Name&nbsp;</b></font></td> 
+    <td bgcolor="#CCCCCC" align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;Account Number&nbsp;</b></font></td>
+    <td bgcolor="#CCCCCC" align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;Ticket#&nbsp;</b></font></td>
+    <td bgcolor="#CCCCCC" align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;Expiration<sup>1</sup>&nbsp;</b></font></td>
+  </tr>
+
+
+  <tr>
+    <td bgcolor="#F0F0F0" rowspan="1" align="center" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">NAME/USER</font></td>  
+    <td bgcolor="#F0F0F0" rowspan="1" align="center" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">00000113832423</font></td>
+    <td bgcolor="#F0F0F0" rowspan="1" align="center" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">526-2309193914-3</font></td>
+    <td bgcolor="#F0F0F0" rowspan="1" align="center" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">06/05/09</font></td>
+  </tr>
+
+  <tr> 
+    <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="1"><sup>1</sup> All travel involving funds from this Confirmation Number must be completed by the expiration date.</font></td>
+  </tr>
+  <tr> 
+    <td colspan="4" height="24">&nbsp; </td>
+  </tr>
+
+</table>
+
+<!-- START_ITINERARY //-->     
+<table border="0" cellspacing="1" cellpadding="1" width="100%">
+  <tr>
+    <td bgcolor="#ffaa00" colspan="5"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;Cancelled Itinerary</b></font></td>
+  </tr>
+  <tr>
+    <td bgcolor="#cccccc" align="center">&nbsp;<font face="Arial, Helvetica, sans-serif" size="2"><b>Date</b></font>&nbsp;</td>
+    <td bgcolor="#cccccc" align="center">&nbsp;<font face="Arial, Helvetica, sans-serif" size="2"><b>Flight</b></font>&nbsp;</td>
+    <td bgcolor="#cccccc">&nbsp;<font face="Arial, Helvetica, sans-serif" size="2"><b>Routing&nbsp;Details</b></font></td>
+  </tr>
+
+
+  <tr>
+    <td bgcolor="#F0F0F0" align="center" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">Thu Jun 19</font></td>
+    <td bgcolor="#F0F0F0" align="center" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">1059</font></td>
+    <td bgcolor="#F0F0F0" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">Depart ST LOUIS MO (   ) at 9:15 PM<br>Arrive in PHOENIX AZ (   ) at 10:25 PM</font><font face="Arial, Helvetica, sans-serif" size="1">
+
+</font>
+    </td>
+  </tr>   
+
+  <tr>
+    <td bgcolor="#E0E0E0" align="center" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">Sun Jun 22</font></td>
+    <td bgcolor="#E0E0E0" align="center" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">1485</font></td>
+    <td bgcolor="#E0E0E0" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">Depart PHOENIX AZ (   ) at 7:55 PM<br>Arrive in ST LOUIS MO (   ) at 12:55 AM</font><font face="Arial, Helvetica, sans-serif" size="1">
+
+</font>
+    </td>
+  </tr>   
+
+
+
+</table>
+<br />
+<!-- END_ITINERARY //-->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="1">
+<tr>
+  <td bgcolor="#ffaa00"><b><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;Cost and Payment Summary</font></b></td>
+</tr>
+<tr>
+
+<td>
+
+
+<table border="0" cellspacing="0" cellpadding="1">
+ <tr>
+  <td valign="top"><font face="Arial, Helvetica, sans-serif" size="2">Air</font></td>
+  <td valign="top" align="right"><font face="Arial, Helvetica, sans-serif" size="2">$    232.56</font></td>
+ </tr>
+ <tr>
+  <td valign="top"><font face="Arial, Helvetica, sans-serif" size="2">Tax</font></td>
+  <td valign="top" align="right"><font face="Arial, Helvetica, sans-serif" size="2">$     24.44</font></td>
+ </tr>
+ <tr>
+  <td valign="top"><font face="Arial, Helvetica, sans-serif" size="2">PFC Fee</font></td>
+  <td valign="top" align="right"><font face="Arial, Helvetica, sans-serif" size="2">$     14.00</font></td>
+ </tr>
+ <tr>
+  <td valign="top"><font face="Arial, Helvetica, sans-serif" size="2">Security Fee</font></td>
+  <td valign="top" align="right"><font face="Arial, Helvetica, sans-serif" size="2">$      0.00<br><HR size="1" width="100%"></font></td>
+ </tr>
+ <tr>
+  <td valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><b>Total Payment:</b></font></td>
+  <td valign="top" align="right"><font face="Arial, Helvetica, sans-serif" size="2"><b>   $271.00</b></font></td>
+ </tr>
+
+</table>
+<font face="Arial, Helvetica, sans-serif" size="2">&nbsp;&nbsp;Prior payment(s)<br>&nbsp;&nbsp;&nbsp;&nbsp;06/05/08 VISA xxxxxxxxxxxx4324 Ref 526-2309193914-3 $271.00<br><br>&nbsp;&nbsp;Current payment(s)<br>&nbsp;&nbsp;&nbsp;&nbsp;Tktls funds remaining in conf#2XB4NK for future travel $271.00CR<br></font><br>
+
+<font face="Arial, Helvetica, sans-serif" size="2"></font>
+</td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="1">
+<tr>
+<td bgcolor="#ffaa00"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;Fare Rule(s)</b></font></td>
+</tr>
+<tr>
+<td>
+
+<p><font face="Arial, Helvetica, sans-serif" size="2">Valid only on Southwest Airlines.     CANCELLED PNR    
+All travel involving funds from this Confirmation Number must be completed by the expiration date. 
+Any change to this itinerary may result in a fare increase.</font></p>
+
+<!-- FARE_CALCULATION_BLOCK //-->
+<p><font face="Arial, Helvetica, sans-serif" size="2">Fare Calculation:</font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">NRF- 1       $.00      $.00<br></font></p>
+<!-- FARE_CALCULATION_BLOCK //-->
+
+</td>
+</tr>
+
+</table>
+
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="1">
+<tr>
+<td bgcolor="#ffaa00"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;Important Checkin Requirement</b></font></td>
+</tr>
+<tr>
+<td>
+<p><font size="2" face="Arial, Helvetica, sans-serif">
+Passengers who do not obtain a boarding pass and are not present and available for boarding in the departure gate area at least ten minutes prior to scheduled departure time may have their reserved space cancelled and will not be eligible for denied boarding compensation.
+</font><br /></p>
+
+</td>
+</tr>
+</table>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="1">
+<tr>
+<td bgcolor="#ffaa00"><b> <font face="Arial, Helvetica, sans-serif" size="2">&nbsp;Southwest Airlines Co. Notice of Incorporated Terms</font> </b></td>
+</tr>
+<tr>
+<td><p><font face="Arial, Helvetica, sans-serif" size="2">Air transportation by Southwest Airlines is subject to Southwest Airlines' Passenger Contract of Carriage, the terms of which are incorporated by reference.</font></p>
+
+<p><b><a href="http://www.southwest.com/travel_center/incorporated_terms.html"><font face="Arial, Helvetica, sans-serif" size="2">Notice of Incorporated Terms<br>
+<br>
+</font></a></b></p></td>
+</tr>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="1">
+<tr align="center">
+<td colspan="2" bgcolor="#e0e0e0"><img src="http://www.southwest.com/images/1x1.gif" /></td>
+
+</tr>
+<tr align="center" bgcolor="#cccccc">
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Additional Information for Travelers</b></font></td>
+</tr>
+<tr align="center" bgcolor="#cccccc">
+<td colspan="2">
+<font face="Arial, Helvetica, sans-serif" size="1">
+<p><a href="http://www.southwest.com/travel_center/retrieveCheckinDoc.html?src=receipt">Online Checkin</a> | <a href="http://www.southwest.com/travel_center/baggage.html?src=receipt">Free Baggage Allowance</a> | <a href="http://www.southwest.com/travel_center/checkin.html?src=receipt">Checkin Requirements</a> | <a href="http://www.southwest.com/travel_center/retrieveSecDoc.html?src=receipt">Print Security Document</a> <br> 
+
+<a href="http://www.southwest.com/travel_center/inflight.html?src=receipt">Inflight Service</a>	| <a href="http://www.southwest.com/travel_center/travel_tips.html?src=receipt">Travel Tips</a> | <a href="http://www.southwest.com/travel_center/refund_information.html?src=receipt">Refund Information</a> | <a href="http://www.southwest.com/travel_center/privacy_policy.html?src=receipt">Privacy Policy</a> | <a href="http://www.southwest.com/travel_center/routemap.html?src=receipt">Southwest Airlines Destinations</a></p>
+<p>We can <a href="http://www.southwest.com/cgi-bin/textMsgSubscribeEntry">notify you of flight departure or arrival status via text messages</a> on your cell phone, pager, personal digital assistant (PDA), or e-mail account. Or, use our automated phone service by calling 1-888-SWA-TRIP.</p>
+</font>
+</td>
+
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+</table>
+</table>
+
+<p>&nbsp;</p>
+</body>
+</html>
+

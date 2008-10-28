@@ -1,0 +1,662 @@
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by zimbra.hostname.com (Postfix) with ESMTP id BD77F14D2641
+	for <user.name@hostname.com>; Sun, 11 May 2008 09:43:35 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at 
+X-Spam-Flag: NO
+X-Spam-Score: -1.52
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.52 tagged_above=-10 required=6.6
+	tests=[AWL=-1.522, BAYES_50=0.001, HTML_MESSAGE=0.001]
+Received: from zimbra.hostname.com ([127.0.0.1])
+	by localhost (zimbra.hostname.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id tua0jeoju7Hj for <user.name@hostname.com>;
+	Sun, 11 May 2008 09:43:29 -0500 (CDT)
+Received: from mail.hostname.com (mail.hostname.com [192.168.9.1])
+	by zimbra.hostname.com (Postfix) with ESMTP id EA78814D2643
+	for <user.name@hostname.com>; Sun, 11 May 2008 09:43:29 -0500 (CDT)
+Received: from smtp2.hostname.com (smtp2.hostname.com [192.168.9.2])
+	by mail.hostname.com (8.13.8/8.13.8) with ESMTP id m4BEjstL019636
+	for <user.name@hostname.com>; Sun, 11 May 2008 09:45:55 -0500
+Received: from prodmx04.appriss.com (prodmx04.appriss.com [63.126.72.177])
+	by smtp2.hostname.com (8.13.8/8.13.8) with ESMTP id m4BEjjVa002817
+	for <user.name@hostname.com>; Sun, 11 May 2008 09:45:45 -0500
+Received: from prodmx04.prod.appriss.com ([10.10.100.173] helo=prodmx04)
+	by prodmx04.appriss.com with esmtp (Exim 4.51)
+	id 1JvCl6-0005yd-SB
+	for user.name@hostname.com; Sun, 11 May 2008 10:42:41 -0400
+Message-ID: <13203074.1210516956794.JavaMail.notify@globalnotifications.com>
+Date: Sun, 11 May 2008 10:42:36 -0400 (EDT)
+From: "American Airlines@aa.com" <notify@aa.globalnotifications.com>
+To: "user.name@hostname.com" <user.name@hostname.com>
+Subject: AA Schedule Change Notification
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_759894_11258799.1210516956791"
+Content-Disposition: inline
+Content-ID: 165029688@prodmx04
+X-AsynchronySolutions-MailScanner: Found to be clean, Found to be clean
+X-AsynchronySolutions-MailScanner-SpamCheck: not spam,
+	SpamAssassin (not cached, score=-4.337, required 4,
+	autolearn=not spam, ALL_TRUSTED -1.80, AWL -0.05, BAYES_00 -2.60,
+	HTML_90_100 0.11, HTML_MESSAGE 0.00, UPPERCASE_25_50 0.00), not spam,
+	SpamAssassin (not cached, score=-4.285, required 4,
+	autolearn=not spam, ALL_TRUSTED -1.80, BAYES_00 -2.60,
+	HTML_90_100 0.11, HTML_MESSAGE 0.00, UPPERCASE_25_50 0.00)
+X-AsynchronySolutions-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner-ID: m4BEjstL019636
+X-AsynchronySolutions-MailScanner-From: notify@aa.globalnotifications.com
+
+------=_Part_759894_11258799.1210516956791
+Content-Type: text/plain; charset="iso-8859-15"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+
+To: MICHAEL M GAFFNEY
+
+RECORD LOCATOR - KMLOAP  
+
+Thank you for choosing American Airlines/American Eagle, a member of the
+oneworld Alliance.
+
+There has been a recent  SCHEDULE CHANGE  to the passenger's reservation and the current
+itinerary is listed below. This document is for informational purposes only and is intended to
+advise the passenger (s) of a  SCHEDULE CHANGE.  THIS IS NOT A TICKET OR
+ELECTRONIC RECEIPT.   
+
+Please check your departure/arrival gate information prior to arriving at the airport.
+Should you need to change your reservation, please call 1-800-433-7300 and refer
+to the above record locator.
+
+THIS E-MAIL ADDRESS IS NON-RETURNABLE AND WILL NOT ACCOMMODATE REPLIES.
+
+
+
+23 MAY 08 - FRIDAY   
+  AIR   American Airlines         543        ECONOMY      
+        LV:  ST LOUIS INTL                   2:20 PM      EQP: BOEING 757
+        DEPART: MAIN TERMINAL                      1HR 45MIN
+        AR:  DALLAS FT WORTH                 4:05 PM      NON-STOP
+        
+        GAFFNEY/MICHAEL                  SEAT - 18F     AA-8P31D70          
+        
+        
+  AIR   American Airlines         677        ECONOMY      FOOD FOR PURCHASE
+        LV:  DALLAS FT WORTH                 4:45 PM      EQP: MD-80
+                                                          4HR 0MIN
+        AR:  PORTLAND      OR                6:45 PM      NON-STOP
+        
+        GAFFNEY/MICHAEL                  SEAT - 21F     AA-8P31D70          
+        
+        
+
+02 JUN 08 - MONDAY   
+  AIR   American Airlines         476        ECONOMY      FOOD FOR PURCHASE
+        LV:  PORTLAND      OR                10:30 AM      EQP: MD-80
+                                                          3HR 45MIN
+        AR:  DALLAS FT WORTH                 4:15 PM      NON-STOP
+        
+        GAFFNEY/MICHAEL                  SEAT - 21F     AA-8P31D70          
+        
+        
+  AIR   American Airlines         2040       ECONOMY      
+        LV:  DALLAS FT WORTH                 6:25 PM      EQP: BOEING 757
+                                                          1HR 40MIN
+        AR:  ST LOUIS INTL                   8:05 PM      NON-STOP
+        ARRIVE: MAIN TERMINAL                          REF: KMLOAP
+        
+        GAFFNEY/MICHAEL                  SEAT - 18F     AA-8P31D70          
+        
+        
+
+
+
+
+NRID: 2123522511561109412871100
+
+------=_Part_759894_11258799.1210516956791
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+
+
+
+
+
+<html>
+<head>
+<title>AA Notification</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000">
+<table width="727" border="0">
+  <tr>
+    <td>
+      <table width="100%" border="0">
+        <tr>
+          
+            <td colspan="2"><img src="http://images.appriss.com/amair/ScheduleChange.jpg" width="727" height="82" usemap="#Map2" border="0"></td>
+        </tr>
+        <tr>
+          <td width="80%">
+            <table>
+              <tr>
+                <td valign="top"><img src="http://barcode.appriss.com/tds/bc/veKMLOAPES.gif"/></td>
+                <td valign="top">
+                  <table>
+                    <tr>
+                      <td><p><a href="http://oneworld.com"><img src="http://images.appriss.com/amair/oneworld_appriss.jpg" border="0"></a></p>
+		                <font face="Arial, Helvetica, sans-serif" size="3"><b>MICHAEL M GAFFNEY</b></font>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="74%"><font face="Arial, Helvetica, sans-serif" size="2">Date
+                        of Issue: 11MAY08<br>
+                        <br>
+                        Record Locator: KMLOAP  </font><font face="Arial, Helvetica, sans-serif" size="3"><b></b></font></td>
+                    </tr>
+                    <tr>
+                      <td width="74%" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <br>
+                        Thank you for choosing American Airlines/American Eagle, a member of the oneworld Alliance.<br><br>There has been a recent&nbsp;&nbsp;SCHEDULE CHANGE&nbsp;&nbsp;to the passenger's reservation and the current itinerary is listed below. This document is for informational purposes only and is intended to advise the passenger (s) of a&nbsp;&nbsp;SCHEDULE CHANGE.&nbsp;&nbsp;THIS IS NOT A TICKET OR ELECTRONIC RECEIPT.&nbsp;&nbsp; <br><br>Please check your departure/arrival gate information prior to arriving at the airport. Should you need to change your reservation, please call 1-800-433-7300 and refer to the above record locator.<br><br>THIS E-MAIL ADDRESS IS NON-RETURNABLE AND WILL NOT ACCOMMODATE REPLIES.</font>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td rowspan="100" valign="top">
+                    <img src="http://images.appriss.com/amair/hdtab.gif" width="91" height="19">
+                    <table width="51%" border="2" bordercolor="#000066">
+                        <tr>
+                            <td height="98" bgcolor="#EEF2FB">
+                  <!--HOT DEALS-->
+                  <div align="center">
+                      <a href="http://citi.bridgetrack.com/usc/_spredir.htm?BTData=C02107E716A617459524D46B9BEB0ADA595928490F1F8F6E8EAC5C2D662543A6&BT_TRF=643602"><img src="http://images.appriss.com/amair/citi8.gif" width="90" height="120" border="0" vspace="3"></a><br>
+                      <a href="https://book1.carrental.com/dcweb/app?service=page/GEDStep1&pid=GenericDual&locale=en&iataNumberAvis=0172012H&iataNumberBudget=0043466C&awdNumber=K817100&bcdNumber=U072400&MID=AA_Email_2008&CID=E_Itinerary_Receipt_AB"><img src="http://images.appriss.com/amair/avisbudget01.gif" width="90" height="120" border="0" NOSEND="1" vspace="3"></a><br>
+                      <a href="http://aa.cruises.com/?CID=30BANBN043020080001ALL&utm_source=etds&utm_medium=email&utm_campaign=etds_043008"><img src="http://images.appriss.com/amair/cruise01.gif" width="90" height="120" border="0" NOSEND="1" vspace="3"></a><br>
+                      <a href="http://www.etravelprotection.com/servlet/WASCPure?accam=F030356&csid=H11"/><img src="http://images.appriss.com/amair/insurance1.gif" width="90" height="120" border="0" NOSEND="1" vspace="3"></a>
+      		       </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+              </tr>
+
+       
+            <tr>
+              <td colspan="2" valign="top"> <img src="http://images.appriss.com/amair/FlightDetails.gif" width="228" height="23"><a name="FlightDetails"></a>
+                <table width="100%" border="2" bordercolor="#003399" bgcolor="#FFFFFF">
+                  <tr>
+                    <td height="100%">
+                      <table width="100%" border="0">
+                        
+                        
+                            
+                            <tr>
+                              <td width="12%" bgcolor="#D3E3EB"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Date:</font></b></td>
+                              <td width="22%" bgcolor="#D3E3EB">
+                                <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">23 MAY 08 - FRIDAY   </font></div>
+                              </td>
+                              <td width="15%" bgcolor="#D3E3EB">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="10%" bgcolor="#D3E3EB">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="24%" bgcolor="#D3E3EB">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="17%" bgcolor="#D3E3EB">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              
+                            </tr>
+                            
+                                <tr>
+                                  <td width="12%" bgcolor="#E9F1F5"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Flight
+                                    :</font></b></td>
+                                  <td width="22%" bgcolor="#E9F1F5">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">American Airlines        </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">543     </font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#E9F1F5">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#E9F1F5">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">BOEING 757</font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  
+                                </tr>
+                                <tr>
+                                  <td width="12%" bgcolor="#D3E3EB"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Departure:</font></b></td>
+                                  <td width="22%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">ST LOUIS INTL                 </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2:20 PM</font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">MAIN TERMINAL                 </font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">1HR 45MIN</font></div>
+                                  </td>
+                                  
+                                </tr>
+                                <tr>
+                                  <td width="12%" bgcolor="#E9F1F5"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Arrival:</font></b></td>
+                                  <td width="22%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">DALLAS FT WORTH               </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">4:05 PM</font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">
+    								                    NON-STOP</font></div>
+                                  </td>
+                                  
+                                </tr>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                    <tr>
+                                      <td width="12%" bgcolor="#D3E3EB"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Name: <!-- GAFFNEY/MICHAEL                --></font></b></td>
+                                      <td width="22%" bgcolor="#D3E3EB">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">GAFFNEY/MICHAEL               </font></div>
+                                      </td>
+                                      <td width="15%" bgcolor="#D3E3EB">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">SEAT 18F </font></div>
+                                      </td>
+                                      <td width="10%" bgcolor="#D3E3EB">
+                                        <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">ECONOMY</font></div>
+                                      </td>
+                                      <td width="24%" bgcolor="#D3E3EB"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">FF#: AA-8P31D70          </font></td>
+                                      <td width="17%" bgcolor="#D3E3EB">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"></font></div>
+                                      </td>
+                                      
+                                    </tr>
+                                
+                                
+            	                
+            	        
+
+                            <!-- 23 MAY 08 --><tr><td colspan="6" bgcolor="#EADCC4"><hr></td></tr>
+                                
+                            <tr>
+                              <td width="12%" bgcolor="#D3E3EB"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Date:</font></b></td>
+                              <td width="22%" bgcolor="#D3E3EB">
+                                <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">23 MAY 08 - FRIDAY   </font></div>
+                              </td>
+                              <td width="15%" bgcolor="#D3E3EB">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="10%" bgcolor="#D3E3EB">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="24%" bgcolor="#D3E3EB">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="17%" bgcolor="#D3E3EB">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              
+                            </tr>
+                            
+                                <tr>
+                                  <td width="12%" bgcolor="#E9F1F5"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Flight
+                                    :</font></b></td>
+                                  <td width="22%" bgcolor="#E9F1F5">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">American Airlines        </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">677     </font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#E9F1F5">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#E9F1F5">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">MD-80</font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  
+                                </tr>
+                                <tr>
+                                  <td width="12%" bgcolor="#D3E3EB"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Departure:</font></b></td>
+                                  <td width="22%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">DALLAS FT WORTH               </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">4:45 PM</font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">4HR 0MIN</font></div>
+                                  </td>
+                                  
+                                </tr>
+                                <tr>
+                                  <td width="12%" bgcolor="#E9F1F5"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Arrival:</font></b></td>
+                                  <td width="22%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">PORTLAND      OR              </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">6:45 PM</font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">
+    								                    NON-STOP</font></div>
+                                  </td>
+                                  
+                                </tr>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                    <tr>
+                                      <td width="12%" bgcolor="#D3E3EB"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Name: <!-- GAFFNEY/MICHAEL                --></font></b></td>
+                                      <td width="22%" bgcolor="#D3E3EB">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">GAFFNEY/MICHAEL               </font></div>
+                                      </td>
+                                      <td width="15%" bgcolor="#D3E3EB">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">SEAT 21F </font></div>
+                                      </td>
+                                      <td width="10%" bgcolor="#D3E3EB">
+                                        <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">ECONOMY</font></div>
+                                      </td>
+                                      <td width="24%" bgcolor="#D3E3EB"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">FF#: AA-8P31D70          </font></td>
+                                      <td width="17%" bgcolor="#D3E3EB">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">FOOD FOR PURCHASE</font></div>
+                                      </td>
+                                      
+                                    </tr>
+                                
+                                
+            	                
+            	        
+            	        
+
+                        
+                            <!-- 02 JUN 08 --><tr><td colspan="6" bgcolor="#EADCC4"><hr></td></tr>
+                                
+                            <tr>
+                              <td width="12%" bgcolor="#E9F1F5"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Date:</font></b></td>
+                              <td width="22%" bgcolor="#E9F1F5">
+                                <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">02 JUN 08 - MONDAY   </font></div>
+                              </td>
+                              <td width="15%" bgcolor="#E9F1F5">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="10%" bgcolor="#E9F1F5">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="24%" bgcolor="#E9F1F5">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="17%" bgcolor="#E9F1F5">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              
+                            </tr>
+                            
+                                <tr>
+                                  <td width="12%" bgcolor="#D3E3EB"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Flight
+                                    :</font></b></td>
+                                  <td width="22%" bgcolor="#D3E3EB">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">American Airlines        </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">476     </font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#D3E3EB">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#D3E3EB">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">MD-80</font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  
+                                </tr>
+                                <tr>
+                                  <td width="12%" bgcolor="#E9F1F5"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Departure:</font></b></td>
+                                  <td width="22%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">PORTLAND      OR              </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">10:30 AM</font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">3HR 45MIN</font></div>
+                                  </td>
+                                  
+                                </tr>
+                                <tr>
+                                  <td width="12%" bgcolor="#D3E3EB"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Arrival:</font></b></td>
+                                  <td width="22%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">DALLAS FT WORTH               </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">4:15 PM</font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">
+    								                    NON-STOP</font></div>
+                                  </td>
+                                  
+                                </tr>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                    <tr>
+                                      <td width="12%" bgcolor="#E9F1F5"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Name: <!-- GAFFNEY/MICHAEL                --></font></b></td>
+                                      <td width="22%" bgcolor="#E9F1F5">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">GAFFNEY/MICHAEL               </font></div>
+                                      </td>
+                                      <td width="15%" bgcolor="#E9F1F5">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">SEAT 21F </font></div>
+                                      </td>
+                                      <td width="10%" bgcolor="#E9F1F5">
+                                        <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">ECONOMY</font></div>
+                                      </td>
+                                      <td width="24%" bgcolor="#E9F1F5"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">FF#: AA-8P31D70          </font></td>
+                                      <td width="17%" bgcolor="#E9F1F5">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">FOOD FOR PURCHASE</font></div>
+                                      </td>
+                                      
+                                    </tr>
+                                
+                                
+            	                
+            	        
+
+                            <!-- 02 JUN 08 --><tr><td colspan="6" bgcolor="#EADCC4"><hr></td></tr>
+                                
+                            <tr>
+                              <td width="12%" bgcolor="#E9F1F5"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Date:</font></b></td>
+                              <td width="22%" bgcolor="#E9F1F5">
+                                <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">02 JUN 08 - MONDAY   </font></div>
+                              </td>
+                              <td width="15%" bgcolor="#E9F1F5">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="10%" bgcolor="#E9F1F5">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="24%" bgcolor="#E9F1F5">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              <td width="17%" bgcolor="#E9F1F5">
+                                <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                              </td>
+                              
+                            </tr>
+                            
+                                <tr>
+                                  <td width="12%" bgcolor="#D3E3EB"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Flight
+                                    :</font></b></td>
+                                  <td width="22%" bgcolor="#D3E3EB">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">American Airlines        </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2040    </font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#D3E3EB">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#D3E3EB">
+                                    <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">BOEING 757</font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  
+                                </tr>
+                                <tr>
+                                  <td width="12%" bgcolor="#E9F1F5"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Departure:</font></b></td>
+                                  <td width="22%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">DALLAS FT WORTH               </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">6:25 PM</font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#E9F1F5">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">1HR 40MIN</font></div>
+                                  </td>
+                                  
+                                </tr>
+                                <tr>
+                                  <td width="12%" bgcolor="#D3E3EB"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Arrival:</font></b></td>
+                                  <td width="22%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">ST LOUIS INTL                 </font></div>
+                                  </td>
+                                  <td width="15%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">8:05 PM</font></div>
+                                  </td>
+                                  <td width="10%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                                  </td>
+                                  <td width="24%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">MAIN TERMINAL                          REF: KMLOAP</font></div>
+                                  </td>
+                                  <td width="17%" bgcolor="#D3E3EB">
+                                    <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">
+    								                    NON-STOP</font></div>
+                                  </td>
+                                  
+                                </tr>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                    <tr>
+                                      <td width="12%" bgcolor="#E9F1F5"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Name: <!-- GAFFNEY/MICHAEL                --></font></b></td>
+                                      <td width="22%" bgcolor="#E9F1F5">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">GAFFNEY/MICHAEL               </font></div>
+                                      </td>
+                                      <td width="15%" bgcolor="#E9F1F5">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">SEAT 18F </font></div>
+                                      </td>
+                                      <td width="10%" bgcolor="#E9F1F5">
+                                        <div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">ECONOMY</font></div>
+                                      </td>
+                                      <td width="24%" bgcolor="#E9F1F5"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">FF#: AA-8P31D70          </font></td>
+                                      <td width="17%" bgcolor="#E9F1F5">
+                                        <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"></font></div>
+                                      </td>
+                                      
+                                    </tr>
+                                
+                                
+            	                
+            	        
+            	        
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+        
+        <tr>
+          <td colspan="2">
+            <p align="left">&nbsp;</p>
+            <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">NRID: 2123522511561109412871100</font></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+</table>
+<map name="Map2">
+  <area shape="rect" coords="272,0,336,20" href="http://www.aa.com" target="_blank">
+  <area shape="rect" coords="338,-2,404,20" href="http://www.aa.com/apps/utility/contactAA/ContactAAHome.jhtml" onclick="javascript:window.open('http://www.aa.com/apps/utility/contactAA/ContactAAHome.jhtml','contactAA','scrollbars=yes,menu=no,width=680,height=430,top=125,left=325'); void('');" target="new">
+  <area shape="rect" coords="406,0,456,18" href="http://www.aa.com/content/utility/FAQs/customerService_FAQ.jhtml" onClick="javascript:window.open('http://www.aa.com/content/utility/FAQs/customerService_FAQ.jhtml','FAQs','scrollbars=yes,menu=no,width=680,height=430,top=125,left=325'); void('');" target="new">
+</map>
+</body>
+</html>
+
+------=_Part_759894_11258799.1210516956791--
+

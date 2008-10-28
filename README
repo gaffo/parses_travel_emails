@@ -1,0 +1,13 @@
+ParsesTravelEmails
+==================
+
+This plugin is meant to be able to parse most US travel company emiails (hotels and airlines)
+and pull relevant reservation data out of them.
+
+Example
+=======
+
+TODO
+
+
+Copyright (c) 2008 Mike Gaffney, released under the MIT license
